@@ -23,3 +23,6 @@ gfm_quirks: paragraph_end
 
 # other
 strict_front_matter: true
+exclude:
+  - rso_original
+  - localhbuild.sh
