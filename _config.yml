@@ -1,0 +1,25 @@
+# required by github
+lsi: false
+safe: true
+source: /srv/jekyll
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# defaults from github
+#github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
+
+# other
+strict_front_matter: true
