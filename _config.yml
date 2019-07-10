@@ -25,5 +25,5 @@ gfm_quirks: paragraph_end
 strict_front_matter: true
 exclude:
   - rso_original
-  - localhbuild.sh
+  - localbuild.sh
   - vendor
