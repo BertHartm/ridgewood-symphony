@@ -27,3 +27,4 @@ exclude:
   - rso_original
   - localbuild.sh
   - vendor
+baseurl: /ridgewood-symphony
