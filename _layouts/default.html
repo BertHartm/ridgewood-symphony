@@ -47,6 +47,10 @@
       font-size: 14px;
     }
 
+    h1 {
+      margin-bottom: 30px;
+    }
+
     @media (max-width:768px) {
       .main-title {
         font-size: 30px;
@@ -432,7 +436,13 @@
       <div id="primary" class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100">
         <main id="main" class="site-main">
 
-          {{content}}
+          <article>
+            <div class="inside-article">
+
+              {{ content }}
+
+            </div>
+          </article>
 
         </main>
         <!-- #main -->
