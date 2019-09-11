@@ -264,7 +264,7 @@ input[type="submit"]:focus,
 }
 
 .site-header {
-  background-image: url(wp-content/uploads/2017/01/RSO-Header2.jpg);
+  background-image: url(../../wp-content/uploads/2017/01/RSO-Header2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
