@@ -1,3 +1,3 @@
 function toggleMenu() {
-  console.log("toggle")
+  document.getElementsByClassName("main-navigation")[0].classList.toggle("toggled")
 }
